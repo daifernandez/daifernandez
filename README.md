@@ -1,9 +1,14 @@
-### <div align="center">Hola! soy Dai, una desarrolladora Web FullStack 👨‍💻 graduada en Henry! 🚀</div>  
+### <div align="center">¡Bienvenido a mi perfil de GitHub! 👩🏻‍💻 Soy Daiana Fernandez, desarrolladora Web Full Stack 🚀</div>  
 
+En mi tiempo libre, me encanta aprender y experimentar con nuevas tecnologías, lo que me ha permitido adquirir habilidades en Javascript, NodeJS, React, Redux y ExpressJS. 
+Además, he trabajado en varios proyectos interesantes, lo que me ha permitido desarrollar habilidades creativas para resolver problemas.
 
-Actualmente cuento con mas de 800 horas de estudio y practica, con conocimientos en Javascript, NodeJS, React, Redux, ExpressJS.
+En mi perfil de GitHub, encontrarás algunos de mis proyectos más recientes y emocionantes. Me enorgullece compartir mi trabajo y espero que puedas encontrar algo que te inspire o te resulte útil.
 
-Ingrese al mundo de la programación estudiando Swift, lo que me llego a seguir interiorizándome en el desarrollo de otras tecnologías. Fué así como me decidí a seguir mi camino de aprendizaje continuo. 
+Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en contactarme.  
+
+¡Gracias por visitar mi perfil de GitHub!
+
 
 - 🐾 Te invito a explorar nuestro proyecto académico desarrollado dentro de Henry Bootcamp. Realizado en 24 días junto a un grupo de 6 personas como proyecto final en nuestra cursada.
 [PawCare](https://pawcare.vercel.app)  
