@@ -1,5 +1,9 @@
 ### <div align="center">Hola! soy Dai, una desarrolladora Web FullStack 👨‍💻 graduada en Henry! 🚀</div>  
-  
+
+
+Actualmente cuento con mas de 800 horas de estudio y practica, con conocimientos en Javascript, NodeJS, React, Redux, ExpressJS.
+
+Ingrese al mundo de la programación estudiando Swift, lo que me llego a seguir interiorizándome en el desarrollo de otras tecnologías. Fué así como me decidí a seguir mi camino de aprendizaje continuo. 
 
 - 🐾 Te invito a explorar nuestro proyecto académico desarrollado dentro de Henry Bootcamp. Realizado en 24 días junto a un grupo de 6 personas como proyecto final en nuestra cursada.
 [PawCare](https://pawcare.vercel.app)  
