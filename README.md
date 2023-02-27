@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Soy Dai, una desarrolladora Web FullStack 👨‍💻  graduada en Henry! 🚀</div>  
+### <div align="center">Hola! soy Dai, una desarrolladora Web FullStack 👨‍💻 graduada en Henry! 🚀</div>  
   
 
 - 🐾 Te invito a explorar nuestro proyecto académico desarrollado dentro de Henry Bootcamp. Realizado en 24 días junto a un grupo de 6 personas como proyecto final en nuestra cursada.
