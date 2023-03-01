@@ -1,4 +1,4 @@
-## <div align="center">¡Bienvenido a mi perfil de GitHub! 👩🏻‍💻 Soy Daiana Fernandez, desarrolladora Web Full Stack 🚀</div>  
+### <div align="center">¡Bienvenido a mi perfil de GitHub! 👩🏻‍💻 Soy Daiana Fernandez, desarrolladora Web Full Stack 🚀</div>  
 
 ## Sobre mi
 En mi tiempo libre, me encanta aprender y experimentar con nuevas tecnologías, lo que me ha permitido adquirir habilidades en Javascript, NodeJS, React, Redux y ExpressJS. Además, he trabajado en varios proyectos interesantes, lo que me ha permitido desarrollar habilidades creativas para resolver problemas.
