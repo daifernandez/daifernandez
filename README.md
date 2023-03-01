@@ -1,18 +1,17 @@
 ### <div align="center">¡Bienvenido a mi perfil de GitHub! 👩🏻‍💻 Soy Daiana Fernandez, desarrolladora Web Full Stack 🚀</div>  
 
-En mi tiempo libre, me encanta aprender y experimentar con nuevas tecnologías, lo que me ha permitido adquirir habilidades en Javascript, NodeJS, React, Redux y ExpressJS. 
-Además, he trabajado en varios proyectos interesantes, lo que me ha permitido desarrollar habilidades creativas para resolver problemas.
+## Sobre mi
+En mi tiempo libre, me encanta aprender y experimentar con nuevas tecnologías, lo que me ha permitido adquirir habilidades en Javascript, NodeJS, React, Redux y ExpressJS. Además, he trabajado en varios proyectos interesantes, lo que me ha permitido desarrollar habilidades creativas para resolver problemas.
 
 En mi perfil de GitHub, encontrarás algunos de mis proyectos más recientes y emocionantes. Me enorgullece compartir mi trabajo y espero que puedas encontrar algo que te inspire o te resulte útil.
 
-Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en contactarme.  
+Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en contactarme.
 
 
-- 🐾 Te invito a explorar nuestro proyecto académico desarrollado dentro de Henry Bootcamp. Realizado en 24 días junto a un grupo de 6 personas como proyecto final en nuestra cursada.
-[PawCare](https://pawcare.vercel.app)  
-  
+## Mis Proyectos
+🐾 Te invito a explorar nuestro proyecto académico desarrollado dentro de Henry Bootcamp. Realizado en 24 días junto a un grupo de 6 personas como proyecto final en nuestra cursada: [PawCare](http://pawcare.vercel.app/)
 
-- 🎮 También, podes pasar por mi proyecto individual desarrollado dentro del mismo Bootcamp. [GameStream](http://gamestream.dev)  
+🎮 También, podes pasar por mi proyecto individual desarrollado dentro del mismo Bootcamp: [GameStream](https://www.gamestream.dev)
   
 
 <br/>  
