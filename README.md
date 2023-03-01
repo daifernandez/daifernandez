@@ -10,6 +10,9 @@ En mi tiempo libre, me encanta aprender y experimentar con nuevas tecnologías, 
 En mi perfil de GitHub, encontrarás algunos de mis proyectos más recientes y emocionantes. Me enorgullece compartir mi trabajo y espero que puedas encontrar algo que te inspire o te resulte útil.
 
 Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en contactarme.
+
+<br/> 
+
 <div align="center">
 <a href="https://linkedin.com/in/daifernandez" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
