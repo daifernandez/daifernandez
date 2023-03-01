@@ -6,6 +6,14 @@ En mi tiempo libre, me encanta aprender y experimentar con nuevas tecnologías, 
 En mi perfil de GitHub, encontrarás algunos de mis proyectos más recientes y emocionantes. Me enorgullece compartir mi trabajo y espero que puedas encontrar algo que te inspire o te resulte útil.
 
 Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en contactarme.
+<div align="center">
+<a href="https://linkedin.com/in/daifernandez" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/daiofernandez" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 
 ## Mis Proyectos
@@ -13,10 +21,8 @@ Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en con
 
 🎮 También, podes pasar por mi proyecto individual desarrollado dentro del mismo Bootcamp: [GameStream](https://www.gamestream.dev)
   
-
 <br/>  
-
-
+ 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -55,20 +61,6 @@ Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en con
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/daifernandez" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/daiofernandez" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
