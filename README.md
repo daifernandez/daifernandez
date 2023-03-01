@@ -7,8 +7,6 @@ En mi perfil de GitHub, encontrarás algunos de mis proyectos más recientes y e
 
 Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en contactarme.  
 
-¡Gracias por visitar mi perfil de GitHub!
-
 
 - 🐾 Te invito a explorar nuestro proyecto académico desarrollado dentro de Henry Bootcamp. Realizado en 24 días junto a un grupo de 6 personas como proyecto final en nuestra cursada.
 [PawCare](https://pawcare.vercel.app)  
