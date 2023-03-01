@@ -71,8 +71,9 @@ Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en con
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=daifernandez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=daifernandez&theme=omni&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center">
+<br/> 
+<div>
 <img src="https://komarev.com/ghpvc/?username=daifernandez&&style=flat-square" align="center" />
 </div>  
