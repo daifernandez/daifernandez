@@ -1,5 +1,5 @@
 ### <div align="center">¡Bienvenido a mi perfil de GitHub!</div>  
-## <div align="center">👩🏻‍💻 Soy Daiana Fernandez, desarrolladora Web Full Stack 🚀</div>  
+## <div align="center">👩🏻‍💻 Soy Daiana Fernandez, desarrolladora Web Full Stack </div>  
 
 
 <br/>  
