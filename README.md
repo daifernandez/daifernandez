@@ -22,9 +22,9 @@ Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en con
 <br/>  
 
 ## Mis Proyectos
-🐾 Te invito a explorar nuestro proyecto académico desarrollado dentro de Henry Bootcamp. Realizado en 24 días junto a un grupo de 6 personas como proyecto final en nuestra cursada: [PawCare](http://pawcare.vercel.app/)
+🐾 PawCare – Un proyecto académico desarrollado en equipo dentro de Henry Bootcamp, completado en 24 días con un grupo de 6 personas como parte del proyecto final. [PawCare](http://pawcare.vercel.app/)
 
-🎮 También, podes pasar por mi proyecto individual desarrollado dentro del mismo Bootcamp: [GameStream](https://www.gamestream.dev)
+🎮  GameStream – Un proyecto que comenzó como parte del bootcamp y ha evolucionado en un proyecto personal. He seguido mejorándolo con nuevas funcionalidades y optimizaciones. [GameStream](https://www.gamestream.dev)
   
 <br/>  
  
