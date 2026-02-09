@@ -30,6 +30,9 @@ Disfruto construir productos claros, accesibles y cuidados en detalle.
 <br/>
 
 ## 🧩 Proyectos
+- **Nido&Co** — Crea listas de regalos y compártelas con quienes más quieres. (Next.js)  
+  https://nido-co.app
+
 - **Capellari** — E-commerce de productos electrónicos (Next.js)  
   https://e-commerce-capellari.vercel.app/productos/todos
 
