@@ -19,12 +19,9 @@
 <br/>
 
 ## ✨ Sobre mí
-Me apasiona el desarrollo web y la creación de soluciones tecnológicas con impacto real.  
-Disfruto construir productos claros, accesibles y cuidados en detalle.
+Como desarrolladora web full stack, me apasiona crear experiencias digitales que aporten valor y resuelvan problemas reales. Acá vas a encontrar algunos de mis proyectos más recientes.
 
 - Resolución creativa de problemas  
-- Aprendizaje continuo  
-- Calidad de código  
 - Adaptabilidad y trabajo en equipo  
 
 <br/>
