@@ -1,72 +1,57 @@
 <div align="center">
 
-<h1>Daiana Fernández</h1>
-<p>
-  <strong>Full-Stack Web Developer</strong><br/>
-  Next.js · React · Node.js
-</p>
+# Daiana Fernández
 
-<p>
-  <a href="https://linkedin.com/in/daifernandez">LinkedIn</a> ·
-  <a href="mailto:dtama.fernandez@gmail.com">Email</a> ·
-  <a href="https://daifernandez.com">Portfolio</a>
-</p>
+**Desarrolladora web full stack**<br />
+Next.js · React · TypeScript · Node.js
 
-<p><em>Transformando ideas en experiencias digitales simples, útiles y lindas.</em></p>
+[LinkedIn](https://linkedin.com/in/daifernandez) ·
+[Email](mailto:dtama.fernandez@gmail.com) ·
+[Portfolio](https://daifernandez.com)
+
+*Construyo productos web simples, útiles y preparados para crecer.*
 
 </div>
 
-<br/>
+## Sobre mí
 
-## ✨ Sobre mí
-Como desarrolladora web full stack, me apasiona crear experiencias digitales que aporten valor y resuelvan problemas reales. Acá vas a encontrar algunos de mis proyectos más recientes.
+Soy desarrolladora web full stack de Argentina. Actualmente estoy finalizando
+el Máster de Desarrollo con IA de BIG School y profundizando mis conocimientos
+mediante productos propios.
 
-- Resolución creativa de problemas  
-- Adaptabilidad y trabajo en equipo  
+- Creo y mantengo **Nido & Co**, una plataforma de listas de regalos con
+  usuarios reales en distintos países.
+- Trabajo principalmente con Next.js, React, TypeScript, Node.js y PostgreSQL.
+- Estoy abierta a oportunidades remotas en equipos hispanohablantes.
 
-<br/>
+## Proyectos destacados
 
-## 🧩 Proyectos
-- **Nido&Co** — Crea listas de regalos y compártelas con quienes más quieres. (Next.js)  
-  https://nido-co.app
+### [Nido & Co](https://nido-co.app)
 
-- **Capellari** — E-commerce de productos electrónicos (Next.js)  
-  https://e-commerce-capellari.vercel.app/productos/todos
+Plataforma para crear y compartir listas de regalos. Es mi producto principal:
+me ocupo de su desarrollo, mantenimiento y evolución a partir del uso real.
 
-- **PawCare** — Proyecto final en equipo (Henry Bootcamp)  
-  http://pawcare.vercel.app/
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Supabase`
 
-- **GameStream** — Proyecto personal en evolución  
-  https://www.gamestream.dev
+### [GameStream](https://gamestream.dev)
 
-<br/>
+Aplicación full stack para explorar videojuegos, buscar por nombre, aplicar
+filtros y consultar detalles, contenido multimedia y tiendas.
 
-## 🧰 Tech Stack
-<div align="center">
+[Código fuente](https://github.com/daifernandez/PI-Videogames)
 
-<img src="https://img.shields.io/badge/Next.js-e6e6e6?style=flat-square&logo=nextdotjs&logoColor=000" />
-<img src="https://img.shields.io/badge/React-e6e6e6?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Node.js-e6e6e6?style=flat-square&logo=nodedotjs&logoColor=000" />
-<img src="https://img.shields.io/badge/JavaScript-e6e6e6?style=flat-square&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/HTML5-e6e6e6?style=flat-square&logo=html5&logoColor=000" />
-<img src="https://img.shields.io/badge/CSS3-e6e6e6?style=flat-square&logo=css3&logoColor=000" />
-<img src="https://img.shields.io/badge/Tailwind-e6e6e6?style=flat-square&logo=tailwindcss&logoColor=000" />
-<img src="https://img.shields.io/badge/Bootstrap-e6e6e6?style=flat-square&logo=bootstrap&logoColor=000" />
-<img src="https://img.shields.io/badge/Redux-e6e6e6?style=flat-square&logo=redux&logoColor=000" />
-<img src="https://img.shields.io/badge/Express-e6e6e6?style=flat-square&logo=express&logoColor=000" />
-<img src="https://img.shields.io/badge/PostgreSQL-e6e6e6?style=flat-square&logo=postgresql&logoColor=000" />
-<img src="https://img.shields.io/badge/MySQL-e6e6e6?style=flat-square&logo=mysql&logoColor=000" />
-<img src="https://img.shields.io/badge/Git-e6e6e6?style=flat-square&logo=git&logoColor=000" />
+`React` · `Redux` · `Node.js` · `Express` · `PostgreSQL`
 
-</div>
+### [Capellari](https://e-commerce-capellari.vercel.app)
 
-<br/>
+E-commerce con catálogo de productos y panel de administración.
 
-## 📈 GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daifernandez&show_icons=true&hide_border=true&bg_color=00000000&title_color=555&text_color=666&icon_color=777" />
-</div>
+[Código fuente](https://github.com/daifernandez/ECommerce-Capellari)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daifernandez&style=flat-square" />
-</div>
+`Next.js` · `React` · `Firebase` · `Tailwind CSS`
+
+## Contacto
+
+Podés encontrarme en [LinkedIn](https://linkedin.com/in/daifernandez), conocer
+más sobre mi trabajo en [daifernandez.com](https://daifernandez.com) o
+escribirme a [dtama.fernandez@gmail.com](mailto:dtama.fernandez@gmail.com).
